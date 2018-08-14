@@ -1,21 +1,36 @@
 # udacity_capstone_project_emergency_911_calls
 
-Dataset:
-https://www.kaggle.com/mchirico/montcoalert
 
-Necessary Libraries:
+# Dataset: 
+
+911.csv (https://www.kaggle.com/mchirico/montcoalert)
+
+
+# Necessary Libraries:
+
 numpy
+
 pandas
+
 scikit-learn
+
 matplotlib
+
 seaborn
+
 xgboost
 
-Capstone Project Proposal:
+
+# Capstone Project Proposal:
+
 proposal.pdf
 
-Capstone Project Report:
+
+# Capstone Project Report:
+
 capstone_project_report.pdf
 
-Code:
+
+# Code:
+
 911.ipynb
